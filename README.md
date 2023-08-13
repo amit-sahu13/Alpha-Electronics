@@ -15,4 +15,3 @@ Technologies Used:-
 3) PHP :- To connect my contact form with the database.
 4) MySQL :- To store all the data in the database server.
 
-I have developed my own API to fetch the products and that also I will publish it soon.
