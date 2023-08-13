@@ -1,0 +1,163 @@
+[ 
+    {
+        "id": 1,
+        "title": "Epson L3250",
+        "price": "Rs. 15,127",
+        "description": "[Multi-function Color Inject]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-2.png"
+    },
+    {
+        "id": 2,
+        "title": "Epson EcoTank L3212",
+        "price": "Rs. 12,399",
+        "description": "[Borderless Printing]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-3.png"
+    },
+    {
+        "id": 3,
+        "title": "Brother DCP-B7535DW",
+        "price": "Rs. 21,149",
+        "description": "[Monochrome Laser Printer, Grey]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/bother-id-4.png"
+    },
+    {
+        "id": 4,
+        "title": "Epson L3200",
+        "price": "Rs. 12,599",
+        "description": "[Black, 4 Ink Bottle Inc.]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-5.png"
+    },
+    {
+        "id": 5,
+        "title": "Epson L3210",
+        "price": "Rs. 12,090",
+        "description": "[Multi-function Color Inject]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-1.png"
+    },
+    {
+        "id": 6,
+        "title": "Canon PIXMA E3370",
+        "price": "Rs. 5,769",
+        "description": "[Black, Ink, Cartridge]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/canon-id-6.png"
+    },
+    {
+        "id": 7,
+        "title": "Canon G4770",
+        "price": "Rs. 22,809",
+        "description": "[Black (135ml)]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/canon-id-7.png"
+    },
+    {
+        "id": 8,
+        "title": "Epson L6270",
+        "price": "Rs. 25,599",
+        "description": "[Black, 4 Ink Bottles Inc.]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-8.png"
+    },
+    {
+        "id": 9,
+        "title": "HP Smart Tank",
+        "price": "Rs. 23,989",
+        "description": "[Voice Activated Priting, Google Ass.]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/hp-id-9.png"
+    },
+    {
+        "id": 10,
+        "title": "Canon ImageCLASS MF244dw",
+        "price": "Rs. 31,499",
+        "description": "[Wifi Monochrome Laser Printer]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/canon-id-10.png"
+    },
+    {
+        "id": 11,
+        "title": "GP LaserJet Tank MFP 1005W",
+        "price": "Rs. 22,499",
+        "description": "[White, Toner Cambridge]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/hp-id-11.png"
+    },
+    {
+        "id": 12,
+        "title": "Canon ImageCLASS MF3010",
+        "price": "Rs. 17,680",
+        "description": "[Monochrome Laser Printer]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/canon-id-12.png"
+    },
+    {
+        "id": 13,
+        "title": "HP LaserJet Pro MFP M126a",
+        "price": "Rs. 18,290",
+        "description": "[Toner Cambridge, Laser, USB]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/hp-id-13.png"
+    },
+    {
+        "id": 14,
+        "title": "Epson M2140",
+        "price": "Rs. 17,998",
+        "description": "[Output: Monochrome, 32ppm]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-14.png"
+    },
+    {
+        "id": 15,
+        "title": "Epson M2120",
+        "price": "Rs. 16,399",
+        "description": "[Speed: 32ppm. Ink Tank]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-15.png"
+    },
+    {
+        "id": 16,
+        "title": "Canon LBP2900B",
+        "price": "Rs. 16,949",
+        "description": "[Single function]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/canon-id-16.png"
+    },
+    {
+        "id": 17,
+        "title": "Epson M15140",
+        "price": "Rs. 59,990",
+        "description": "[Multi-function Color Inject]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-17.png"
+    },
+    {
+        "id": 18,
+        "title": "Epson EcoTank L6570",
+        "price": "Rs. 67,990",
+        "description": "[Color, Ethernet, WiFi Direct]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-18.png"
+    },
+    {
+        "id": 19,
+        "title": "HP MFP M329",
+        "price": "Rs. 39,450",
+        "description": "[Laser, Monochrome, Ethernet]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/hp-id-19.png"
+    },
+    {
+        "id": 20,
+        "title": "Epson EcoTank L6580",
+        "price": "Rs. 72,800",
+        "description": "[White, Ink Bottle, Color, USB]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-20.png"
+    }
+    
+]

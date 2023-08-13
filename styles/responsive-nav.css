@@ -1,0 +1,44 @@
+#menu-icon{
+    font-size: 33px;
+    cursor: pointer;
+    display: none;
+}
+
+@media screen and (max-width: 795px){
+    #menu-icon{
+        display: block;
+        margin-right: 10px;
+    }
+    #close{
+        display: none;
+        margin-right: 18px;
+    }
+    #close img{
+        height: 19px;
+        width: 19px;
+    }
+    .navbar-list{
+        position: absolute;
+        top: 100%;
+        right: 0%;
+        width: 190px;
+        height: 170px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        gap: 0;
+        background-color: #e7f5ff;
+        transition: all 0.5s ease;
+        padding: 5px 0px;
+    }
+    #responsive-navlist{
+        display: none;
+        border-radius: 1px;
+    }
+    .navbar-list a{
+        display: block;
+        padding: 2px 35px;
+        transition: all 0.5s ease;
+        color: black;
+    }
+}

@@ -1,0 +1,20 @@
+
+.product-1-image img{
+    max-height: 190px;
+}
+
+@media screen and (max-width: 1118px){
+    .product-1-image img{
+        margin-top: 48px;
+    }
+
+    .section-1{
+        height: 315px;
+    }
+}
+
+@media screen and (max-width: 511px){
+    .section-1{
+        height: 250px;
+    }
+}

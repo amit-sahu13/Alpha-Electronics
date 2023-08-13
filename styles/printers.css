@@ -1,0 +1,24 @@
+@media screen and (max-width: 1116px) {
+    .product-1-content {
+        margin: -47px 0px 0px 20px;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .product-1-image img {
+        max-height: 123px;
+    }
+}
+
+@media screen and (max-width: 486px) {
+    .product-1-image img{
+        height: 103px;
+    }
+}
+
+@media screen and (max-width: 386px) {
+    .product-1-image img{
+        height: 95px;
+        max-width: 162px;
+    }
+}

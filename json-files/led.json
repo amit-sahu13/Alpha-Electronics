@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "title": "SAMSUNG 32 inch",
+        "price": "Rs. 13,990",
+        "description": "[HD LED Smart TV]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-1.png"
+    },
+    {
+        "id": 2,
+        "title": "Haier 55 inch",
+        "price": "Rs. 44,999",
+        "description": "[Google TV, 4K]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-2.png"
+    },
+    {
+        "id": 3,
+        "title": "SAMSUNG 43 inch",
+        "price": "Rs. 30,990",
+        "description": "[Crystal 4K Series]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-3.png"
+    },
+    {
+        "id": 4,
+        "title": "OnePlus 55 inch",
+        "price": "Rs. 39,999",
+        "description": "[4K, Android TV]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-4.png"
+    },
+    {
+        "id": 5,
+        "title": "ONIDA 55 inch",
+        "price": "Rs. 30,990",
+        "description": "[Smart Google TV]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-5.png"
+    },
+    {
+        "id": 6,
+        "title": "OnePlus 65 inch",
+        "price": "Rs. 61,999",
+        "description": "[Dolby Audio, 4K]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-6.png"
+    },
+    {
+        "id": 7,
+        "title": "MI X 50 inch",
+        "price": "Rs. 34,999",
+        "description": "[4K, Dolby Vision]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-7.png"
+    },
+    {
+        "id": 8,
+        "title": "Realme 50 inch",
+        "price": "Rs. 32,299",
+        "description": "[Handsfree Voice Search]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-8.png"
+    },
+    {
+        "id": 9,
+        "title": "SONY X75L 55 inch",
+        "price": "Rs. 64,580",
+        "description": "[LED Smart Google TV]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-9.png"
+    },
+    {
+        "id": 10,
+        "title": "LG UHD 55 inch",
+        "price": "Rs. 74,990",
+        "description": "[AI Processor, 4K]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-10.png"
+    },
+    {
+        "id": 11,
+        "title": "SAMSUNG 75 inch",
+        "price": "Rs. 6,74,990",
+        "description": "[Tizen OS, 8K]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-11.png"
+    },
+    {
+        "id": 12,
+        "title": "SAMSUNG 75 inch",
+        "price": "Rs. 5,99,900",
+        "description": "[4K, Tizen TV]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-12.png"
+    },
+    {
+        "id": 13,
+        "title": "SONY 85 inch",
+        "price": "Rs. 5,13,990",
+        "description": "[4K, Android TV]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-13.png"
+    },
+    {
+        "id": 14,
+        "title": "LG 43 inch",
+        "price": "Rs. 52,499",
+        "description": "[LED Smart Google TV]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-14.png"
+    },
+    {
+        "id": 15,
+        "title": "SAMSUNG 55 inch",
+        "price": "Rs. 2,41,990",
+        "description": "[Tizen OS, 4K]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-15.png"
+    },
+    {
+        "id": 16,
+        "title": "SAMSUNG SERIES 7",
+        "price": "Rs. 2,29,800",
+        "description": "[55 inch, 4K UHD]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-16.png"
+    },
+    {
+        "id": 17,
+        "title": "SAMSUNG 65 inch",
+        "price": "Rs. 2,24,999",
+        "description": "[QLED Ultra HD 4K]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-17.png"
+    },
+    {
+        "id": 18,
+        "title": "SAMSUNG 65 inch",
+        "price": "Rs. 2,19,799",
+        "description": "[Tizen OS, 4K]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-18.png"
+    },
+    {
+        "id": 19,
+        "title": "Sansui 86 inch",
+        "price": "Rs. 1,89,990",
+        "description": "[Android OS, 4K]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-19.png"
+    },
+    {
+        "id": 20,
+        "title": "SONY 65 inch",
+        "price": "Rs. 1,79,900",
+        "description": "[Smart Android TV]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-20.png"
+    }
+]

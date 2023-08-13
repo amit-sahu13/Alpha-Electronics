@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.containers{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: beige;
+}
+
+.parts {
+    padding: 10px;
+    margin: 12px 0px 12px 0px;
+    background: #e6d8d8;
+    width: 800px;
+    border-radius: 5px;
+}
+
+.parts-1{
+    margin-top: 35px;
+}
+
+.parts-last{
+    margin-bottom: 35px;
+}
+
+.question_part{
+    display: flex;
+    justify-content: space-between;
+}
+
+.question_part i{
+    font-size: 31px;
+    color: black;
+    font-weight: bold;
+}
+
+.question_part p {
+    margin: 5px;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+
+.answer_part p {
+    margin: 5px;
+    padding: 10px;
+    font-size: large;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background: #8f6a6a;
+    border-radius: 6px;
+}
+
+.parts:hover {
+    cursor: pointer;
+}
+
+.answer_part {
+    display: none;
+}
+
+.parts.active .answer_part {
+    display: block;
+}

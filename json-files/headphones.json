@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "title": "OPPO Enco Buds 2",
+        "price": "Rs. 1,399",
+        "description": "[True Wirelss, DNC]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/Oppo-id-1.png"
+    },
+    {
+        "id": 2,
+        "title": "Noise Buds VS102",
+        "price": "Rs. 899",
+        "description": "[11mm driver, IPX5]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/Noise-id-2.png"
+    },
+    {
+        "id": 3,
+        "title": "Boat Audio Z40",
+        "price": "Rs. 1,197",
+        "description": "[ENC Mic, 60H Battery Life]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/Boat-id-3.png"
+
+    },
+    {
+        "id": 4,
+        "title": "Noise Buds VS102",
+        "price": "Rs. 999",
+        "description": "[Midnight Blue, IPX5]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/Noise-id-4.png"
+    },
+    {
+        "id": 5,
+        "title": "Boat Audio Anchor",
+        "price": "Rs. 3,999",
+        "description": "[40mm Drivers, AUX, ANC]",
+        "category": "cameras",
+        "image": "https://amit-headphones.netlify.app/images/Boat-id-5.png"
+    },
+    {
+        "id": 6,
+        "title": "JBL Tune Buds ANC",
+        "price": "Rs. 5,499",
+        "description": "[48H Playtime, BT 5.3LE Headset]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/JBL-id-6.png"
+    },
+    {
+        "id": 7,
+        "title": "JBL Tune 520BT",
+        "price": "Rs. 3,999",
+        "description": "[57H Playtime, Pure Bass]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/JBL-id-7.png"
+    },
+    {
+        "id": 8,
+        "title": "OnePLus Nord Buds CE ",
+        "price": "Rs. 2,699",
+        "description": "[Misty Green, True Wireless]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/OnePlus-id-8.png"
+    },
+    {
+        "id": 9,
+        "title": "Boat Rockerz 551 ANC ",
+        "price": "Rs. 2,999",
+        "description": "[100H Playback, 40mm Drivers]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/Boat-id-9.png"
+    },
+    {
+        "id": 10,
+        "title": "Lenovo HD116 Bluetooth",
+        "price": "Rs. 1,199",
+        "description": "[Black, On the Ear]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/Lenovo-id-10.png"
+    },
+    {
+        "id": 11,
+        "title": "JBL Wave Beam TWS",
+        "price": "Rs. 3,499",
+        "description": "[32H Playtime, IP54]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/JBL-id-11.png"
+    },
+    {
+        "id": 12,
+        "title": "pTron Bass Buds Joy TWS",
+        "price": "Rs. 599",
+        "description": "[13mm Drivers, 32h Playtime]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/ptron-id-12.png"
+    },
+    {
+        "id": 13,
+        "title": "Boat Audio Z40",
+        "price": "Rs. 2,199",
+        "description": "[Low Latency, In the Ear]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/boat-id-13.png"
+    },
+    {
+        "id": 14,
+        "title": "Fastrack FPods FZ100",
+        "price": "Rs. 1,295",
+        "description": "[Quad Mic ENC, BT 5.3]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/fastrack-id-14.png"
+    },
+    {
+        "id": 15,
+        "title": "Realme TechLife Buds T100",
+        "price": "Rs. 1,599",
+        "description": "[AI ENC, 28h Playback]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/realme-id-15.png"
+    },
+    {
+        "id": 16,
+        "title": "Truke BTG 13mm Drivers",
+        "price": "Rs. 699",
+        "description": "[38H Playtime, ENC]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/truke-id-16.png"
+    },
+    {
+        "id": 17,
+        "title": "JBL Tune 230NC TWS",
+        "price": "Rs. 5,999",
+        "description": "[ANC, 40H Playtime, JBL App]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/JBL-id-17.png"
+    },
+    {
+        "id": 18,
+        "title": "Realme Buds Air3 Neo",
+        "price": "Rs. 1,999",
+        "description": "[30H Playback, Starry Blue]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/realme-id-18.png"
+    },
+    {
+        "id": 19,
+        "title": "Realme Buds Air",
+        "price": "Rs. 3,999",
+        "description": "[ANC, TWS, Fast Charge]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/realme-id-19.png"
+    },
+    {
+        "id": 20,
+        "title": "Truke Air Buds Lite",
+        "price": "Rs. 799",
+        "description": "[Quad Mic ENC, 10mm Driver]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/truke-id-20.png"
+    }
+]

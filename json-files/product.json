@@ -1,0 +1,1281 @@
+[
+    {
+        "id": 14,
+        "title": "Boat Wave Infinity",
+        "price": "Rs. 1,999",
+        "description": "[1.85' HD Screen]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/boat-id-14.png"
+    },
+    {
+        "id": 9,
+        "title": "SONY X75L 55 inch",
+        "price": "Rs. 64,580",
+        "description": "[LED Smart Google TV]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-9.png"
+    },
+    {
+        "id": 18,
+        "title": "SAMSUNG 705L",
+        "price": "Rs. 1,79,650",
+        "description": "[French Door Bottom]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-18.png"
+    },
+    {
+        "id": 11,
+        "title": "SAMSUNG 75 inch",
+        "price": "Rs. 6,74,990",
+        "description": "[Tizen OS, 8K]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-11.png"
+    },
+    {
+        "id": 11,
+        "title": "SAMSUNG GURU",
+        "price": "Rs. 2,890",
+        "description": "[Music2, 2inch, 800mAh]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/samsung-id-11.png"
+    },
+    {
+        "id": 15,
+        "title": "SAMSUNG 55 inch",
+        "price": "Rs. 2,41,990",
+        "description": "[Tizen OS, 4K]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-15.png"
+    },
+    {
+        "id": 1,
+        "title": "Godrej 180L",
+        "price": "Rs. 14,840",
+        "description": "[Single Door, 4 Star]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-1.png"
+    },
+    {
+        "id": 20,
+        "title": "APPLE iPhone 14 Pro mAX",
+        "price": "Rs. 1,79,999",
+        "description": "[Gold, 1 TB]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/iPhone-id-20.png"
+    },
+    {
+        "id": 7,
+        "title": "Haier 8kg 5 Star",
+        "price": "Rs. 17,490",
+        "description": "[Drum Washing Machine]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/haier-id-7.png"
+    },
+    {
+        "id": 3,
+        "title": "Noise Evolve 3",
+        "price": "Rs. 2,999",
+        "description": "[AMOLED, Metallic Design]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/noise-id-3.png"
+    },
+    {
+        "id": 12,
+        "title": "SAMSUNG 75 inch",
+        "price": "Rs. 5,99,900",
+        "description": "[4K, Tizen TV]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-12.png"
+    },
+    {
+        "id": 10,
+        "title": "IFB 8kg Steam Wash",
+        "price": "Rs. 33,490",
+        "description": "[1200rpm, 5 Star rating]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/ifb-id-10.png"
+    },
+    {
+        "id": 10,
+        "title": "LG UHD 55 inch",
+        "price": "Rs. 74,990",
+        "description": "[AI Processor, 4K]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-10.png"
+    },
+    {
+        "id": 20,
+        "title": "SONY 65 inch",
+        "price": "Rs. 1,79,900",
+        "description": "[Smart Android TV]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-20.png"
+    },
+    {
+        "id": 4,
+        "title": "Epson L3200",
+        "price": "Rs. 12,599",
+        "description": "[Black, 4 Ink Bottle Inc.]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-5.png"
+    },
+    {
+        "id": 1,
+        "title": "Canon EOS 3000D",
+        "price": "Rs. 29,490",
+        "description": "[18-55mm Lens, FHD]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/Canon-id-1.png"
+    },
+    {
+        "id": 8,
+        "title": "OnePLus Nord Buds CE ",
+        "price": "Rs. 2,699",
+        "description": "[Misty Green, True Wireless]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/OnePlus-id-8.png"
+    },
+    {
+        "id": 17,
+        "title": "IFB 10kg 5 Star",
+        "price": "Rs. 50,390",
+        "description": "[AI Powered Eco Inverter]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/ifb-17.png"
+    },
+    {
+        "id": 1,
+        "title": "Epson L3250",
+        "price": "Rs. 15,127",
+        "description": "[Multi-function Color Inject]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-2.png"
+    },
+    {
+        "id": 16,
+        "title": "SAMSUNG SERIES 7",
+        "price": "Rs. 2,29,800",
+        "description": "[55 inch, 4K UHD]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-16.png"
+    },
+    {
+        "id": 7,
+        "title": "POCO C55",
+        "price": "Rs. 8,999",
+        "description": "[Forest Green, 128GB]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/poco-id-7.png"
+    },
+    {
+        "id": 19,
+        "title": "Realme Buds Air",
+        "price": "Rs. 3,999",
+        "description": "[ANC, TWS, Fast Charge]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/realme-id-19.png"
+    },
+    {
+        "id": 8,
+        "title": "Realme TechLife Watch S100",
+        "price": "Rs. 1,499",
+        "description": "[1.69' HD Display]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/realme-id-8.png"
+    },
+    {
+        "id": 12,
+        "title": "Boat Special Edition",
+        "price": "Rs. 4,899",
+        "description": "[Grey Strap, Free Size]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/boat-id-12.png"
+    },
+    {
+        "id": 6,
+        "title": "Canon PIXMA E3370",
+        "price": "Rs. 5,769",
+        "description": "[Black, Ink, Cartridge]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/canon-id-6.png"
+    },
+    {
+        "id": 3,
+        "title": "Motorola 10.5kg 5 Star",
+        "price": "Rs. 27,990",
+        "description": "[WiFi Enabled Fully Auto.]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/mototrola-id-3.png"
+    },
+    {
+        "id": 13,
+        "title": "HP LaserJet Pro MFP M126a",
+        "price": "Rs. 18,290",
+        "description": "[Toner Cambridge, Laser, USB]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/hp-id-13.png"
+    },
+    {
+        "id": 1,
+        "title": "SAMSUNG 32 inch",
+        "price": "Rs. 13,990",
+        "description": "[HD LED Smart TV]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-1.png"
+    },
+    {
+        "id": 9,
+        "title": "ONIDA 7kg 5 Star",
+        "price": "Rs. 12,990",
+        "description": "[Fully Automatic Top Load]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/onida-id-9.png"
+    },
+    {
+        "id": 5,
+        "title": "Fire-Boltt Sphere 1.6' ",
+        "price": "Rs 2,499",
+        "description": "[Shock Proof, 600mAh]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/firebolt-id-5.png"
+    },
+    {
+        "id": 2,
+        "title": "SAMSUNG 183L",
+        "price": "Rs. 13,490",
+        "description": "[Single Door, 2 Star]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-2.png"
+    },
+    {
+        "id": 15,
+        "title": "Epson M2120",
+        "price": "Rs. 16,399",
+        "description": "[Speed: 32ppm. Ink Tank]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-15.png"
+    },
+    {
+        "id": 2,
+        "title": "SAMSUNG 7kg 5 Star",
+        "price": "Rs. 17,990",
+        "description": "[Digital Inverter Motor]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/samsung-id-2.png"
+    },
+    {
+        "id": 12,
+        "title": "Canon ImageCLASS MF3010",
+        "price": "Rs. 17,680",
+        "description": "[Monochrome Laser Printer]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/canon-id-12.png"
+    },
+    {
+        "id": 16,
+        "title": "APPLE iPhone 14 Pro",
+        "price": "Rs. 1,29,000",
+        "description": "[Deep Purple, 128GB]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/iPhone-id-16.png"
+    },
+    {
+        "id": 2,
+        "title": "Noise Buds VS102",
+        "price": "Rs. 899",
+        "description": "[11mm driver, IPX5]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/Noise-id-2.png"
+    },
+    {
+        "id": 15,
+        "title": "Realme TechLife Buds T100",
+        "price": "Rs. 1,599",
+        "description": "[AI ENC, 28h Playback]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/realme-id-15.png"
+    },
+    {
+        "id": 3,
+        "title": "Boat Audio Z40",
+        "price": "Rs. 1,197",
+        "description": "[ENC Mic, 60H Battery Life]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/Boat-id-3.png"
+    },
+    {
+        "id": 5,
+        "title": "Boat Audio Anchor",
+        "price": "Rs. 3,999",
+        "description": "[40mm Drivers, AUX, ANC]",
+        "category": "cameras",
+        "image": "https://amit-headphones.netlify.app/images/Boat-id-5.png"
+    },
+    {
+        "id": 1,
+        "title": "Fire-Boltt Ninja Talk",
+        "price": "Rs. 1,599",
+        "description": "[Metal Body, 120 Modes]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/firebolt-id-1.png"
+    },
+    {
+        "id": 6,
+        "title": "OnePlus 65 inch",
+        "price": "Rs. 61,999",
+        "description": "[Dolby Audio, 4K]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-6.png"
+    },
+    {
+        "id": 6,
+        "title": "Godrej 7.5kg Top Load",
+        "price": "Rs. 16,390",
+        "description": "[Black, 670rpm, 5 star]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/godrej-id-6.png"
+    },
+    {
+        "id": 8,
+        "title": "Epson L6270",
+        "price": "Rs. 25,599",
+        "description": "[Black, 4 Ink Bottles Inc.]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-8.png"
+    },
+    {
+        "id": 20,
+        "title": "Truke Air Buds Lite",
+        "price": "Rs. 799",
+        "description": "[Quad Mic ENC, 10mm Driver]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/truke-id-20.png"
+    },
+    {
+        "id": 12,
+        "title": "LG 9kg Automatic",
+        "price": "Rs. 38,990",
+        "description": "[In-built Heater, Black]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/LG-id-12.png"
+    },
+    {
+        "id": 7,
+        "title": "Fastrack FR1",
+        "price": "Rs.1,999",
+        "description": "[Ultra VU Display, 1.39inch]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/firebolt-id-16.png"
+    },
+    {
+        "id": 16,
+        "title": "Truke BTG 13mm Drivers",
+        "price": "Rs. 699",
+        "description": "[38H Playtime, ENC]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/truke-id-16.png"
+    },
+    {
+        "id": 16,
+        "title": "Canon LBP2900B",
+        "price": "Rs. 16,949",
+        "description": "[Single function]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/canon-id-16.png"
+    },
+    {
+        "id": 7,
+        "title": "Canon G4770",
+        "price": "Rs. 22,809",
+        "description": "[Black (135ml)]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/canon-id-7.png"
+    },
+    {
+        "id": 11,
+        "title": "SAMSUNG 702L",
+        "price": "Rs. 3,30,000",
+        "description": "[French Door Bottom]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-11.png"
+    },
+    {
+        "id": 1,
+        "title": "Whirlpool 7.5kg 5 Star",
+        "price": "Rs. 17,690",
+        "description": "[Fully Automatic Top Load]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/whirlpool-id-1.png"
+    },
+    {
+        "id": 5,
+        "title": "Realme TechLife 11kg",
+        "price": "Rs. 19,490",
+        "description": "[Fully Automatic Top Load]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/realme-id-5.png"
+    },
+    {
+        "id": 11,
+        "title": "Boat Wave Flex Connect",
+        "price": "Rs. 1,629",
+        "description": "[1.83'HD Display, Metal Design]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/boat-id-11.png"
+    },
+    {
+        "id": 6,
+        "title": "JBL Tune Buds ANC",
+        "price": "Rs. 5,499",
+        "description": "[48H Playtime, BT 5.3LE Headset]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/JBL-id-6.png"
+    },
+    {
+        "id": 18,
+        "title": "SAMSUNG 65 inch",
+        "price": "Rs. 2,19,799",
+        "description": "[Tizen OS, 4K]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-18.png"
+    },
+    {
+        "id": 10,
+        "title": "SAMSUNG 633L",
+        "price": "Rs. 1,06,000",
+        "description": "[WiFi, Smart Conversion]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-10.png"
+    },
+    {
+        "id": 1,
+        "title": "POCO C50 Royal Blue",
+        "price": "Rs. 5,499",
+        "description": "[HD+, 32GB]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/poco-id-1.png"
+    },
+    {
+        "id": 3,
+        "title": "NIKON D7500",
+        "price": "Rs. 92,998",
+        "description": "[18-140mm Lens, 4K UHD]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/NIKON-id-3.png"
+    },
+    {
+        "id": 11,
+        "title": "JBL Wave Beam TWS",
+        "price": "Rs. 3,499",
+        "description": "[32H Playtime, IP54]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/JBL-id-11.png"
+    },
+    {
+        "id": 16,
+        "title": "LG 674L",
+        "price": "Rs. 1,84,919",
+        "description": "[Frost Free Side]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-16.png"
+    },
+    {
+        "id": 10,
+        "title": "Canon ImageCLASS MF244dw",
+        "price": "Rs. 31,499",
+        "description": "[Wifi Monochrome Laser Printer]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/canon-id-10.png"
+    },
+    {
+        "id": 2,
+        "title": "Haier 55 inch",
+        "price": "Rs. 44,999",
+        "description": "[Google TV, 4K]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-2.png"
+    },
+    {
+        "id": 13,
+        "title": "SONY 85 inch",
+        "price": "Rs. 5,13,990",
+        "description": "[4K, Android TV]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-13.png"
+    },
+    {
+        "id": 6,
+        "title": "LG 242L",
+        "price": "Rs. 24,990",
+        "description": "[Double Door, 3 Star]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-6.png"
+    },
+    {
+        "id": 12,
+        "title": "SAMSUNG F14",
+        "price": "Rs. 14,990",
+        "description": "[6GB RAM|128GB ROM]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/samsung-id-12.png"
+    },
+    {
+        "id": 5,
+        "title": "Epson L3210",
+        "price": "Rs. 12,090",
+        "description": "[Multi-function Color Inject]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-1.png"
+    },
+    {
+        "id": 11,
+        "title": "GP LaserJet Tank MFP 1005W",
+        "price": "Rs. 22,499",
+        "description": "[White, Toner Cambridge]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/hp-id-11.png"
+    },
+    {
+        "id": 2,
+        "title": "Noise Icon Buzz 1.69",
+        "price": "Rs. 1,699",
+        "description": "[Voice Assistant, BT Calling]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/noise-id-2.png"
+    },
+    {
+        "id": 7,
+        "title": "JBL Tune 520BT",
+        "price": "Rs. 3,999",
+        "description": "[57H Playtime, Pure Bass]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/JBL-id-7.png"
+    },
+    {
+        "id": 3,
+        "title": "SAMSUNG 43 inch",
+        "price": "Rs. 30,990",
+        "description": "[Crystal 4K Series]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-3.png"
+    },
+    {
+        "id": 20,
+        "title": "Canon R100",
+        "price": "Rs. 49,990",
+        "description": "[RF-S 18-45mm, 4K]",
+        "image": "https://amit-cameras.netlify.app/images/Canon-id-20.png"
+    },
+    {
+        "id": 19,
+        "title": "HP MFP M329",
+        "price": "Rs. 39,450",
+        "description": "[Laser, Monochrome, Ethernet]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/hp-id-19.png"
+    },
+    {
+        "id": 4,
+        "title": "Noise Buds VS102",
+        "price": "Rs. 999",
+        "description": "[Midnight Blue, IPX5]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/Noise-id-4.png"
+    },
+    {
+        "id": 7,
+        "title": "MI X 50 inch",
+        "price": "Rs. 34,999",
+        "description": "[4K, Dolby Vision]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-7.png"
+    },
+    {
+        "id": 9,
+        "title": "Godrej 223L",
+        "price": "Rs. 21,490",
+        "description": "[Double Door, 2 Star]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-9.png"
+    },
+    {
+        "id": 8,
+        "title": "Canon EOS 90D",
+        "price": "Rs. 1,19,980",
+        "description": "[18-135mm IS USM Lens, 4K]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/Canon-id-8.png"
+    },
+    {
+        "id": 13,
+        "title": "SAMSUNG 635L",
+        "price": "Rs. 2,47,000",
+        "description": "[Direct Cool 3 Star]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-13.png"
+    },
+    {
+        "id": 10,
+        "title": "Canon EOS 850D",
+        "price": "Rs. 97,989",
+        "description": "[EF-S-18-55mm]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/Canon-id-10.png"
+    },
+    {
+        "id": 18,
+        "title": "Realme Buds Air3 Neo",
+        "price": "Rs. 1,999",
+        "description": "[30H Playback, Starry Blue]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/realme-id-18.png"
+    },
+    {
+        "id": 13,
+        "title": "Boat Audio Z40",
+        "price": "Rs. 2,199",
+        "description": "[Low Latency, In the Ear]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/boat-id-13.png"
+    },
+    {
+        "id": 1,
+        "title": "OPPO Enco Buds 2",
+        "price": "Rs. 1,399",
+        "description": "[True Wirelss, DNC]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/Oppo-id-1.png"
+    },
+    {
+        "id": 16,
+        "title": "Fire-Boltt Epic Plus",
+        "price": "Rs. 1,099",
+        "description": "[2.5D Curved Glass, SPO2]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/firebolt-id-16.png"
+    },
+    {
+        "id": 17,
+        "title": "SAMSUNG Galaxy Watch 4",
+        "price": "Rs. 15,990",
+        "description": "[Classic LTE, Black Strap]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/samsung-id-17.png"
+    },
+    {
+        "id": 14,
+        "title": "BOSCH 636L",
+        "price": "Rs. 2,02,290",
+        "description": "[Frost Free Side]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-14.png"
+    },
+    {
+        "id": 2,
+        "title": "Canon EOS 1500D",
+        "price": "Rs. 41,899",
+        "description": "[15-55mm IS II Lens]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/Canon-id-2.png"
+    },
+    {
+        "id": 14,
+        "title": "LG 6kg Smart Machine",
+        "price": "Rs. 25,990",
+        "description": "[Smart Diagnosis, Front Load]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/lg-id-14.png"
+    },
+    {
+        "id": 5,
+        "title": "ONIDA 55 inch",
+        "price": "Rs. 30,990",
+        "description": "[Smart Google TV]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-5.png"
+    },
+    {
+        "id": 18,
+        "title": "Canon EOS R10",
+        "price": "Rs. 1,11,990",
+        "description": "[RF-S 18-150mm f/3.5-6.3]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/Canon-id-18.png"
+    },
+    {
+        "id": 18,
+        "title": "IFB 8kg 5 Star",
+        "price": "Rs. 47,490",
+        "description": "[9 Swirl AI Powered, WiFi]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/ifb-18.png"
+    },
+    {
+        "id": 3,
+        "title": "Brother DCP-B7535DW",
+        "price": "Rs. 21,149",
+        "description": "[Monochrome Laser Printer, Grey]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/bother-id-4.png"
+    },
+    {
+        "id": 20,
+        "title": "Epson EcoTank L6580",
+        "price": "Rs. 72,800",
+        "description": "[White, Ink Bottle, Color, USB]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-20.png"
+    },
+    {
+        "id": 13,
+        "title": "NIKON Z30 Mirrorless",
+        "price": "Rs. 81,999",
+        "description": "[Z DX 16-50mm f/4.5-6.3]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/NIKON-id-13.png"
+    },
+    {
+        "id": 15,
+        "title": "OLYMPUS EM1XINBLK",
+        "price": "Rs. 1,69,399",
+        "description": "[MOS, WiFi, 4K]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/Olympus-id-15.png"
+    },
+    {
+        "id": 6,
+        "title": "Fastrack Revoltt FS1 Pro",
+        "price": "Rs. 3,999",
+        "description": "[1.96' Super AMOLED, Blue]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/fastrack-id-6.png"
+    },
+    {
+        "id": 5,
+        "title": "Canon EOS 200D",
+        "price": "Rs. 60,000",
+        "description": "[EF-S18-55mm STM Lens]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/Canon-id-5.png"
+    },
+    {
+        "id": 13,
+        "title": "Panasonic 6kg 5 Star",
+        "price": "Rs. 13,790",
+        "description": "[Top Load, Grey, Aqua Beat]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/panasonic-id-13.png"
+    },
+    {
+        "id": 17,
+        "title": "APPLE iPhone 12",
+        "price": "Rs. 60,999",
+        "description": "[Green, 128 GB]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/iPhone-id-17.png"
+    },
+    {
+        "id": 16,
+        "title": "SAMSUNG 7kg 5 Star",
+        "price": "Rs. 31,990",
+        "description": "[AI Control, Front Load Auto.]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/samsung-id-16.png"
+    },
+    {
+        "id": 4,
+        "title": "Realme Narzo N55",
+        "price": "Rs. 13,348",
+        "description": "[6GB RAM|128GB ROM]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/realme-id-4.png"
+    },
+    {
+        "id": 8,
+        "title": "MARQ by Alpha",
+        "price": "Rs. 37,990",
+        "description": "[468L, Double Door]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-8.png"
+    },
+    {
+        "id": 17,
+        "title": "NIKON D850 DSLR",
+        "price": "Rs. 2,22,999",
+        "description": "[Camera body only, CMOS]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/NINON-id-17.png"
+    },
+    {
+        "id": 9,
+        "title": "Boat Rockerz 551 ANC ",
+        "price": "Rs. 2,999",
+        "description": "[100H Playback, 40mm Drivers]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/Boat-id-9.png"
+    },
+    {
+        "id": 16,
+        "title": "Canon EOS 6D",
+        "price": "Rs. 1,89,990",
+        "description": "[EF24-105mm f/4L]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/Canon-id-16.png"
+    },
+    {
+        "id": 4,
+        "title": "Canon EOS M50",
+        "price": "Rs. 58,990",
+        "description": "[EF M-15-45mm STM Lens]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/Canon-id-4.png"
+    },
+    {
+        "id": 15,
+        "title": "BOSCH 6.5kg 5 Star",
+        "price": "Rs. 17,490",
+        "description": "[680rpm Max Speed, Top Load]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/bosch-id-15.png"
+    },
+    {
+        "id": 18,
+        "title": "Epson EcoTank L6570",
+        "price": "Rs. 67,990",
+        "description": "[Color, Ethernet, WiFi Direct]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-18.png"
+    },
+    {
+        "id": 2,
+        "title": "OnePlus Nord CE2 Lite",
+        "price": "Rs. 17,685",
+        "description": "[5G, 12GB ROM]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/one-id-2.png"
+    },
+    {
+        "id": 6,
+        "title": "SONY Alpha ILCE-7M2K/BQ IN5",
+        "price": "Rs. 77,990",
+        "description": "[28-70mm Lens]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/SONY-id-6.png"
+    },
+    {
+        "id": 9,
+        "title": "HP Smart Tank",
+        "price": "Rs. 23,989",
+        "description": "[Voice Activated Priting, Google Ass.]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/hp-id-9.png"
+    },
+    {
+        "id": 3,
+        "title": "SAMSUNG 236L",
+        "price": "Rs. 22,890",
+        "description": "[Double Door, 2 Star]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-3.png"
+    },
+    {
+        "id": 18,
+        "title": "APPLE iPhone 14 Plus",
+        "price": "Rs. 80,999",
+        "description": "[Purple, 128 GB]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/iPhone-id-18.png"
+    },
+    {
+        "id": 10,
+        "title": "Lenovo HD116 Bluetooth",
+        "price": "Rs. 1,199",
+        "description": "[Black, On the Ear]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/Lenovo-id-10.png"
+    },
+    {
+        "id": 10,
+        "title": "POCO F5 5G",
+        "price": "Rs. 29,999",
+        "description": "[Electric Blue, 256GB]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/poco-id-10.png"
+    },
+    {
+        "id": 18,
+        "title": "APPLE Watch SE GPS",
+        "price": "Rs. 26,999",
+        "description": "[2nd Gen., Crash Detection]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/apple-id-18.png"
+    },
+    {
+        "id": 14,
+        "title": "Epson M2140",
+        "price": "Rs. 17,998",
+        "description": "[Output: Monochrome, 32ppm]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-14.png"
+    },
+    {
+        "id": 13,
+        "title": "APPLE iPhone 14",
+        "price": "Rs. 68,999",
+        "description": "[Midnight, 128GB]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/iphone-id-13.png"
+    },
+    {
+        "id": 15,
+        "title": "APPLE iPhone 13",
+        "price": "Rs. 64,999",
+        "description": "[Pink, 128 GB]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/iPhone-id-15.png"
+    },
+    {
+        "id": 9,
+        "title": "Boat Lunar Connect",
+        "price": "Rs. 1,849",
+        "description": "[ENx Technology, 1.28HD Display]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/boat-id-9.png"
+    },
+    {
+        "id": 5,
+        "title": "Realme GT2 Pro",
+        "price": "Rs. 49,999",
+        "description": "[8GB RAM|128GB ROM]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/realme-id-5.png"
+    },
+    {
+        "id": 4,
+        "title": "SAMSUNG 7kg 5 Star",
+        "price": "Rs. 29,990",
+        "description": "[AI Control, WiFi Tech.]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/samsung-id-4.png"
+    },
+    {
+        "id": 3,
+        "title": "APPLE iPhone 13",
+        "price": "Rs. 62,999",
+        "description": "[128GN ROM, 12MP]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/iPhone-id-3.png"
+    },
+    {
+        "id": 19,
+        "title": "FUJIFILM X-H2S",
+        "price": "Rs. 2,23,000",
+        "description": "[26.16 MP, CMOS]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/Fujifilm-id-19.png"
+    },
+    {
+        "id": 4,
+        "title": "Realme Smart Watch 2",
+        "price": "Rs. 1,994",
+        "description": "[Super Bright HD Display]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/realme-id-4.png"
+    },
+    {
+        "id": 9,
+        "title": "POCO F3 GT",
+        "price": "Rs. 34,999",
+        "description": "[8GB RAM|128GB ROM]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/poco-id-9.png"
+    },
+    {
+        "id": 19,
+        "title": "APPLE Watch Series 8 GPS",
+        "price": "Rs. 44,999",
+        "description": "[ECG App, IPX6, Regular]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/apple-id-19.png"
+    },
+    {
+        "id": 7,
+        "title": "Haier 185L",
+        "price": "Rs. 12,990",
+        "description": "[Single Door, 2 Star]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-7.png"
+    },
+    {
+        "id": 19,
+        "title": "LG 9kg 5 Star",
+        "price": "Rs. 40,990",
+        "description": "[In-built Heater, Black]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/lg-id-14.png"
+    },
+    {
+        "id": 8,
+        "title": "Realme 50 inch",
+        "price": "Rs. 32,299",
+        "description": "[Handsfree Voice Search]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-8.png"
+    },
+    {
+        "id": 14,
+        "title": "LG 43 inch",
+        "price": "Rs. 52,499",
+        "description": "[LED Smart Google TV]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-14.png"
+    },
+    {
+        "id": 8,
+        "title": "POCO F4 5G",
+        "price": "Rs. 39,999",
+        "description": "[12GB RAM|128GB ROM]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/poco-id-8.png"
+    },
+    {
+        "id": 11,
+        "title": "FUJIFILM X-T4",
+        "price": "Rs. 1,72,000",
+        "description": "[XF 18-55mm Lens]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/Fujifilm-id-11.png"
+    },
+    {
+        "id": 5,
+        "title": "Haier 268L",
+        "price": "Rs. 26,990",
+        "description": "[Double Door, 2 Star]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-5.png"
+    },
+    {
+        "id": 19,
+        "title": "APPLE iPhone 12 Pro Max",
+        "price": "Rs. 1,55,999",
+        "description": "[Purple, 1 TB]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/iPhone-id-19.png"
+    },
+    {
+        "id": 9,
+        "title": "NIKON Z5",
+        "price": "Rs. 1,43,880",
+        "description": "[24-200mm]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/NIKON-id-9.png"
+    },
+    {
+        "id": 14,
+        "title": "APPLE iPhone 11",
+        "price": "Rs. 41,999",
+        "description": "[White, 64 GB]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/iPhone-id-14.png"
+    },
+    {
+        "id": 12,
+        "title": "SAMSUNG 865L",
+        "price": "Rs. 2,90,900",
+        "description": "[French Door Bottom]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-12.png"
+    },
+    {
+        "id": 10,
+        "title": "Boult Cosmic R 1.3' HD",
+        "price": "Rs. 4,988",
+        "description": "[150+ Watch Faces, Free Size]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/boult-id-10.png"
+    },
+    {
+        "id": 17,
+        "title": "JBL Tune 230NC TWS",
+        "price": "Rs. 5,999",
+        "description": "[ANC, 40H Playtime, JBL App]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/JBL-id-17.png"
+    },
+    {
+        "id": 20,
+        "title": "LG 10.5/7kg AI",
+        "price": "Rs. 68,990",
+        "description": "[In-built Heater, Black]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/lg-id-20.png"
+    },
+    {
+        "id": 15,
+        "title": "SAMSUNG 681L",
+        "price": "Rs. 1,87,999",
+        "description": "[Frost Free Side]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-15.png"
+    },
+    {
+        "id": 15,
+        "title": "Boat Ultima Connect",
+        "price": "Rs. 1,999",
+        "description": "[1.83' HD Display]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/boat-id-15.png"
+    },
+    {
+        "id": 19,
+        "title": "Sansui 86 inch",
+        "price": "Rs. 1,89,990",
+        "description": "[Android OS, 4K]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-19.png"
+    },
+    {
+        "id": 7,
+        "title": "Canon EOS R50",
+        "price": "Rs. 69,989",
+        "description": "[RF-S 18-45mm f/4.5-6.3]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/Canon-id-7.png"
+    },
+    {
+        "id": 2,
+        "title": "Epson EcoTank L3212",
+        "price": "Rs. 12,399",
+        "description": "[Borderless Printing]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-3.png"
+    },
+    {
+        "id": 17,
+        "title": "Epson M15140",
+        "price": "Rs. 59,990",
+        "description": "[Multi-function Color Inject]",
+        "category": "printers",
+        "image": "https://amit-printers.netlify.app/images/epson-id-17.png"
+    },
+    {
+        "id": 17,
+        "title": "SAMSUNG 657L",
+        "price": "Rs. 1,76,000",
+        "description": "[Frost Free Side]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-17.png"
+    },
+    {
+        "id": 14,
+        "title": "Fastrack FPods FZ100",
+        "price": "Rs. 1,295",
+        "description": "[Quad Mic ENC, BT 5.3]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/fastrack-id-14.png"
+    },
+    {
+        "id": 6,
+        "title": "Realme X50 Pro",
+        "price": "Rs. 47,999",
+        "description": "[Rust Red, 256GB]",
+        "category": "mobiles",
+        "image": "https://amit-mobiles.netlify.app/images/realme-id-6.png"
+    },
+    {
+        "id": 13,
+        "title": "Fire-Boltt Hunter",
+        "price": "Rs. 1,599",
+        "description": "[2.01' HD Display, Metal]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/firebolt-id-13.png"
+    },
+    {
+        "id": 11,
+        "title": "IFB 8kg Steam Wash",
+        "price": "Rs. 37,880",
+        "description": "[Aqua Energie, Anti-Allergen]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/ifb-id-11.png"
+    },
+    {
+        "id": 12,
+        "title": "pTron Bass Buds Joy TWS",
+        "price": "Rs. 599",
+        "description": "[13mm Drivers, 32h Playtime]",
+        "category": "headphones",
+        "image": "https://amit-headphones.netlify.app/images/ptron-id-12.png"
+    },
+    {
+        "id": 20,
+        "title": "LG 675L",
+        "price": "Rs. 1,15,550",
+        "description": "[Frost Free Side]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-20.png"
+    },
+    {
+        "id": 12,
+        "title": "FUJIFILM X-T5",
+        "price": "Rs. 1,80,000",
+        "description": "[18-55mm Lens, 4K]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/Fujifilm-id-12.png"
+    },
+    {
+        "id": 19,
+        "title": "LG 635L",
+        "price": "Rs. 1,69,990",
+        "description": "[Frost Free Side]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-19.png"
+    },
+    {
+        "id": 8,
+        "title": "Whirlpool 6.5kg 5 Star",
+        "price": "Rs. 16,490",
+        "description": "[Built-in Heater, Grey]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/whirlpool-id-8.png"
+    },
+    {
+        "id": 17,
+        "title": "SAMSUNG 65 inch",
+        "price": "Rs. 2,24,999",
+        "description": "[QLED Ultra HD 4K]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-17.png"
+    },
+    {
+        "id": 4,
+        "title": "Haier 240L",
+        "price": "Rs. 23,990",
+        "description": "[Double Door, 3 Star]",
+        "category": "refrigerator",
+        "image": "https://amit-refrigerator.netlify.app/images/id-4.png"
+    },
+    {
+        "id": 20,
+        "title": "Titan Evoke",
+        "price": "Rs. 8,995",
+        "description": "[AMOLED Display, 1000Nits]",
+        "category": "watches",
+        "image": "https://amit-watches.netlify.app/images/titan-id-20.png"
+    },
+    {
+        "id": 14,
+        "title": "Panasonic Lumix DMC-GH4",
+        "price": "Rs. 73,999",
+        "description": "[12-60mm Lens, MOS, 4K]",
+        "category": "cameras",
+        "image": "https://amit-cameras.netlify.app/images/Panasonic-id-14.png"
+    },
+    {
+        "id": 4,
+        "title": "OnePlus 55 inch",
+        "price": "Rs. 39,999",
+        "description": "[4K, Android TV]",
+        "category": "led",
+        "image": "https://amit-led-tv.netlify.app/images/id-4.png"
+    }
+]

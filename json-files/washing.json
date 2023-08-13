@@ -1,0 +1,162 @@
+[ 
+    {
+        "id": 1,
+        "title": "Whirlpool 7.5kg 5 Star",
+        "price": "Rs. 17,690",
+        "description": "[Fully Automatic Top Load]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/whirlpool-id-1.png"
+    },
+    {
+        "id": 2,
+        "title": "SAMSUNG 7kg 5 Star",
+        "price": "Rs. 17,990",
+        "description": "[Digital Inverter Motor]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/samsung-id-2.png"
+    },
+    {
+        "id": 3,
+        "title": "Motorola 10.5kg 5 Star",
+        "price": "Rs. 27,990",
+        "description": "[WiFi Enabled Fully Auto.]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/mototrola-id-3.png"
+    },
+    {
+        "id": 4,
+        "title": "SAMSUNG 7kg 5 Star",
+        "price": "Rs. 29,990",
+        "description": "[AI Control, WiFi Tech.]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/samsung-id-4.png"
+    },
+    {
+        "id": 5,
+        "title": "Realme TechLife 11kg",
+        "price": "Rs. 19,490",
+        "description": "[Fully Automatic Top Load]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/realme-id-5.png"
+    },
+    {
+        "id": 6,
+        "title": "Godrej 7.5kg Top Load",
+        "price": "Rs. 16,390",
+        "description": "[Black, 670rpm, 5 star]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/godrej-id-6.png"
+    },
+    {
+        "id": 7,
+        "title": "Haier 8kg 5 Star",
+        "price": "Rs. 17,490",
+        "description": "[Drum Washing Machine]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/haier-id-7.png"
+    },
+    {
+        "id": 8,
+        "title": "Whirlpool 6.5kg 5 Star",
+        "price": "Rs. 16,490",
+        "description": "[Built-in Heater, Grey]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/whirlpool-id-8.png"
+    },
+    {
+        "id": 9,
+        "title": "ONIDA 7kg 5 Star",
+        "price": "Rs. 12,990",
+        "description": "[Fully Automatic Top Load]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/onida-id-9.png"
+    },
+    {
+        "id": 10,
+        "title": "IFB 8kg Steam Wash",
+        "price": "Rs. 33,490",
+        "description": "[1200rpm, 5 Star rating]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/ifb-id-10.png"
+    },
+    {
+        "id": 11,
+        "title": "IFB 8kg Steam Wash",
+        "price": "Rs. 37,880",
+        "description": "[Aqua Energie, Anti-Allergen]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/ifb-id-11.png"
+    },
+    {
+        "id": 12,
+        "title": "LG 9kg Automatic",
+        "price": "Rs. 38,990",
+        "description": "[In-built Heater, Black]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/LG-id-12.png"
+    },
+    {
+        "id": 13,
+        "title": "Panasonic 6kg 5 Star",
+        "price": "Rs. 13,790",
+        "description": "[Top Load, Grey, Aqua Beat]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/panasonic-id-13.png"
+    },
+    {
+        "id": 14,
+        "title": "LG 6kg Smart Machine",
+        "price": "Rs. 25,990",
+        "description": "[Smart Diagnosis, Front Load]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/lg-id-14.png"
+    },
+    {
+        "id": 15,
+        "title": "BOSCH 6.5kg 5 Star",
+        "price": "Rs. 17,490",
+        "description": "[680rpm Max Speed, Top Load]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/bosch-id-15.png"
+    },
+    {
+        "id": 16,
+        "title": "SAMSUNG 7kg 5 Star",
+        "price": "Rs. 31,990",
+        "description": "[AI Control, Front Load Auto.]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/samsung-id-16.png"
+    },
+    {
+        "id": 17,
+        "title": "IFB 10kg 5 Star",
+        "price": "Rs. 50,390",
+        "description": "[AI Powered Eco Inverter]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/ifb-17.png"
+    },
+    {
+        "id": 18,
+        "title": "IFB 8kg 5 Star",
+        "price": "Rs. 47,490",
+        "description": "[9 Swirl AI Powered, WiFi]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/ifb-18.png"
+    },
+    {
+        "id": 19,
+        "title": "LG 9kg 5 Star",
+        "price": "Rs. 40,990",
+        "description": "[In-built Heater, Black]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/lg-id-14.png"
+    },
+    {
+        "id": 20,
+        "title": "LG 10.5/7kg AI",
+        "price": "Rs. 68,990",
+        "description": "[In-built Heater, Black]",
+        "category": "washing",
+        "image": "https://amit-washing-machine.netlify.app/images/lg-id-20.png"
+    }
+]

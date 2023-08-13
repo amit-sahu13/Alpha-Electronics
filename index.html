@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alpha-Electronics</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/responsive-nav.css">
+    <link rel="stylesheet" href="styles/responsive-footer.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+    <script src="scripts/slider.js"></script>
+    <script src="scripts/camera.js"></script>
+    <script src="scripts/headphones.js"></script>
+    <script src="scripts/watch.js"></script>
+    <script src="scripts/printers.js"></script>
+    <script src="scripts/washing.js"></script>
+    <script src="scripts/mobiles.js"></script>
+    <script src="scripts/refrigerator.js"></script>
+    <script src="scripts/led.js"></script>
+    <script src="scripts/product.js"></script>
+</head>
+
+<body class="container">
+    <div class="navbar-2">
+        <nav class="nav-2">
+            <ul class="navbar-list-2">
+                <li><a class="icons" href="https://instagram.com/amit_sahu_13?igshid=YmMyMTA2M2Y=" target="_blank"><i
+                            class="fa-brands fa-instagram"></i></a></li>
+                <li><a class="icons" href="https://twitter.com/amit_sahu_726?t=vxvj7_WqUk-1IIPhOEeOHA&s=08"
+                        target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
+                <li><a class="icons" href="https://www.facebook.com/profile.php?id=100093535947488" target="_blank"><i
+                            class="fa-brands fa-facebook-f"></i></a></li>
+            </ul>
+        </nav>
+        <div class="account">
+            <span class="profile"><i class="fa-solid fa-user"></i></span>
+            <span class="cart"><i class="fa-solid fa-cart-shopping"></i></span>
+        </div>
+    </div>
+    <header class="header navigation-main">
+        <span class="logo">A L P H A</span>
+        <nav class="navbar">
+            <ul class="navbar-list" id="responsive-navlist">
+                <li><a class="navbar-link" href="index.html">Home</a></li>
+                <li><a class="navbar-link" href="product.html">Products</a></li>
+                <li><a class="navbar-link" href="contact.php">Contact</a></li>
+                <li><a class="navbar-link" href="faq.html">FAQ</a></li>
+            </ul>
+        </nav>
+        <div class="menu" id="menu1">
+            <div class="bx bx-menu" id="menu-icon" onclick="addingItems()"></div>
+        </div>
+        <div id="close">
+            <img src="images/close.png" onclick="removingItems()" alt="Error!">
+        </div>
+    </header>
+    <div class="offer">
+        <p class="offer-code">10% off on all orders with code ALPHA10 </p>
+    </div>
+    <main class="main-1">
+        <div class="slider">
+            <div class="slides">
+                <input type="radio" name="radio-btn" id="radio1">
+                <input type="radio" name="radio-btn" id="radio2">
+                <input type="radio" name="radio-btn" id="radio3">
+
+                <div class="slide first">
+                    <img class="image-1" src="images/iPhone-CANVA.png" alt="Error Loading Image" onclick="mobiles()">
+                </div>
+                <div class="image-responsive">
+                    <img class="image-1-responsive" src="images/iPhone-CANVA-responsive.png" alt="Error Loading Image" onclick="mobiles()">
+                </div>
+                <div class="slide">
+                    <img class="image-2" src="images/LAPTOPS-CANVA.png" alt="Error Loading Image" onclick="product()">
+                </div>
+                <div class="slide">
+                    <img class="image-3" src="images/LED-TV-CANVA.png" alt="Error Loading Image" onclick="led()">
+                </div>
+
+                <div class="navigation-auto">
+                    <div class="auto-btn1"></div>
+                    <div class="auto-btn2"></div>
+                    <div class="auto-btn3"></div>
+                </div>
+            </div>
+
+            <div class="navigation-manual">
+                <label for="radio1" class="manual-btn"></label>
+                <label for="radio2" class="manual-btn"></label>
+                <label for="radio3" class="manual-btn"></label>
+            </div>
+        </div>
+        <div class="empty-1" id="deals"></div>
+        <div class="recommended resposive-40">
+            <p class="recommended-text forty">40% O F F &nbsp; D E A L S</p>
+        </div>
+        <div class="rows">
+            <section class="row-1">
+                <div class="offer-40">
+                    <img src="images/DEALS-CANVA.png" alt="">
+                </div>
+                <div class="cards-1 row1-card1">
+                    <img src="images/Camera.png" alt="Error loading product image">
+                    <h3 class="row1-card1-h3">Camera</h3>
+                    <button class="view-all-btn row1-card1-btn" onclick="cameras()">View All</button>
+                </div>
+                <div class="cards-2 row1-card2">
+                    <img src="images/Headphones.png" alt="Error loading product image">
+                    <h3 class="row1-card2-h3 row1-card2-h3-responsive-893">Headphones</h3>
+                    <button class="view-all-btn row1-card2-btn" onclick="headphones()">View All</button>
+                </div>
+                <div class="cards-3 row1-card3">
+                    <img src="images/smartwatch.png" alt="Error loading product image">
+                    <h3 class="row1-card3-h3-responsive-893 row1-card3-h3">Smart Watches</h3>
+                    <button class="view-all-btn row1-card3-btn" onclick="watches()">View All</button>
+                </div>
+                <div class="cards-4 row1-card4">
+                    <img src="images/Printer.png" alt="Error loading product image">
+                    <h3 class="row1-card4-h3-responsive-893 row1-card4-h3">Printers</h3>
+                    <button class="view-all-btn row1-card4-btn" onclick="printers()">View All</button>
+                </div>
+            </section>
+        </div>
+        <div class="marquee-1">
+            <marquee>
+                <p class="para">Use Code "ALPHA10" to get extra 10% OFF on all products.
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use Code
+                    "ALPHA10" to get extra 10% OFF on all
+                    products.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use
+                    Code "ALPHA10" to get extra 10% OFF on all products.</p>
+            </marquee>
+        </div>
+        <div class="recommended recommended-row2">
+            <p class="recommended-text thirty">30% O F F &nbsp; D E A L S</p>
+        </div>
+        <div class="rows">
+            <section class="row-2">
+                <div class="offer-30">
+                    <img src="images/DEALS-30-CANVA.png" alt="">
+                </div>
+                <div class="cards-1 row2-card1">
+                    <img src="images/Washing-Machine.png" alt="Error loading product image">
+                    <h3 class="row2-card1-h3">Washing Machine</h3>
+                    <button class="view-all-btn row2-card1-btn" onclick="washing()">View All</button>
+                </div>
+                <div class="cards-2 row2-card2">
+                    <img src="images/POCO.png" alt="Error loading product image">
+                    <h3 class="row2-card2-h3">Mobiles</h3>
+                    <button class="view-all-btn row2-card2-btn" onclick="mobiles()">View All</button>
+                </div>
+                <div class="cards-3 row2-card3">
+                    <img src="images/REFRIGERATOR.png" alt="Error loading product image">
+                    <h3 class="row2-card3-h3">Refrigerators</h3>
+                    <button class="view-all-btn row2-card3-btn" onclick="refrigerator()">View All</button>
+                </div>
+                <div class="cards-4 row2-card4">
+                    <img src="images/LED-2.png" alt="Error loading product image">
+                    <h3 class="row2-card4-h3">LED Smart TV</h3>
+                    <button class="view-all-btn row2-card4-btn" onclick="led()">View All</button>
+                </div>
+            </section>
+        </div>
+        <div class="recommended">
+            <p class="recommended-text">R E C O M M E N D E D</p>
+        </div>
+        <section class="row-3">
+            <div class="cards-1 row3-cards1">
+                <img src="images/iPhone-14-pro-max.png" alt="Error loading product image">
+                <h3 class="row3-h3">iPhone 14 Pro Max</h3>
+                <p>Rs. 1,43,990</p>
+                <button class="view-all-btn row3-cards1-btn">Add to Cart</button>
+            </div>
+            <div class="cards-2 row3-cards2">
+                <img src="images/Noise-buds.png" alt="Error loading product image">
+                <h3 class="row3-h3">Noise Smart TWS</h3>
+                <p>Rs. 1,290</p>
+                <button class="view-all-btn row3-cards2-btn">Add to Cart</button>
+            </div>
+            <div class="cards-3 row3-cards3">
+                <img src="images/Acer.png" alt="Error loading product image">
+                <h3 class="row3-h3">Asus Aspire 7</h3>
+                <p>Rs. 54,990</p>
+                <button class="view-all-btn row3-cards3-btn">Add to Cart</button>
+            </div>
+            <div class="cards-4 row3-cards4">
+                <img src="images/Symphony.png" alt="Error loading product image">
+                <h3 class="row3-h3">Symphony Cooler</h3>
+                <p>Rs. 4,999</p>
+                <button class="view-all-btn row3-cards4-btn">Add to Cart</button>
+            </div>
+            <div class="cards-5 row3-cards5">
+                <img src="images/Toaster.png" alt="Error loading product image">
+                <h3 class="row3-h3">Alpha Toaster</h3>
+                <p>Rs. 3,990</p>
+                <button class="view-all-btn row3-cards5-btn">Add to Cart</button>
+            </div>
+        </section>
+        <div class="thanks">
+            <p>THANK YOU FOR VISITING US!</p>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="row">
+            <div class="footer-col footer-col-1">
+                <h4>About Us</h4>
+                <div class="about-us">We are one of the most trusted online store in India for all kinds of Electronic
+                    devices.</div>
+            </div>
+            <div class="footer-col footer-col-2">
+                <h4>Explore</h4>
+                <ul class="footer-responsive">
+                    <li><a href="faq.html">FAQ</a></li>
+                    <li><a href="contact.php">Contact</a></li>
+                    <li><a href="">T & C</a></li>
+                </ul>
+            </div>
+            <div class="footer-col footer-col-3">
+                <h4>Products</h4>
+                <ul class="footer-responsive">
+                    <li><a href="refrigerator.html">Refrigerators</a></li>
+                    <li><a href="led.html">LED Smart TV</a></li>
+                    <li><a href="mobiles.html">Mobile Phones</a></li>
+                    <li><a href="watch.html">Smart Watch</a></li>
+                </ul>
+            </div>
+            <div class="footer-col footer-col-4">
+                <h4>Connect</h4>
+                <div class="social-links">
+                    <a href="https://twitter.com/amit_sahu_726?t=vxvj7_WqUk-1IIPhOEeOHA&s=08" target="_blank"><i
+                            class="fa-brands fa-twitter"></i></a>
+                    <a href="https://instagram.com/amit_sahu_13?igshid=YmMyMTA2M2Y=" target="_blank"><i
+                            class="fa-brands fa-instagram"></i></a>
+                    <a href="https://www.facebook.com/profile.php?id=100093535947488" target="_blank"><i
+                            class="fa-brands fa-facebook-f"></i></a>
+                </div>
+
+            </div>
+        </div>
+    </footer>
+    <script src="scripts/responsive-nav.js"></script>
+</body>
+
+</html>

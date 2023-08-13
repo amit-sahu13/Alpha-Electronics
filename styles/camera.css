@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+
+.parent-section{
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+.section-1{
+    display: flex;
+    margin: 20px 0px;
+    padding: 10px;
+    background-color: #F1EAEA;
+    border-radius: 10px;
+    width: 45%;
+    height: 360px;
+}
+.product-1-image img{
+    max-height: 160px;
+    margin: 84px 0px 0px 23px;
+}
+.product-1-content{
+    margin: -20px 0px 0px 47px;
+}
+.product-1-title{
+    margin: 100px 0px 0px 0px;
+    font-family: 'Lato', sans-serif;
+}
+.description{
+    font-family: 'Nato', sans-serif;
+}
+.ratings{
+    color: brown;
+}
+.add-to-cart-btn{
+    font-size: 14px;
+    padding: 7px;
+    margin-top: 10px;
+    border-radius: 9px;
+    background-color: #e8d0d0;
+    cursor: pointer;
+}
+.add-to-cart-btn:hover{
+    background-color: #dabfbf;
+}
+.price{
+    font-family: 'Roboto', sans-serif;
+}
+
+@media screen and (max-width: 1116px){
+    .product-1-content{
+        margin: -20px 0px 0px 20px;
+    }
+}
+
+@media screen and (max-width: 1064px){
+    .section-1{
+        width: 100%;
+        justify-content: center;
+        gap: 50px;
+    }
+    .product-1-image img{
+        max-height: 211px;
+        margin: 69px 0px 0px 23px;
+    }
+    .product-1-title{
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 728px){
+    .product-1-image img{
+        max-height: 170px;
+        margin: 69px 0px 0px 23px;
+    }
+    .section-1{
+        gap: 20px;
+        height: 350px;
+    }
+    .product-1-title{
+        font-size: 21px;
+    }
+}
+
+@media screen and (max-width: 525px){
+    .product-1-image img{
+        max-height: 140px;
+        margin: 69px 0px 0px 23px;
+    }
+    .section-1{
+        gap: 20px;
+        height: 340px;
+    }
+    .product-1-title{
+        font-size: 20px;
+        margin-top: 90px;
+    }
+    .price{
+        font-size: 19px;
+    }
+    .description{
+        font-size: 16px;
+    }
+    .ratings{
+        font-size: 17px;
+    }
+    .add-to-cart-btn{
+        font-size: 14px;
+        padding: 5px;
+        border-radius: 6px;
+    }
+}
+
+@media screen and (max-width: 488px){
+    .product-1-image img{
+        max-height: 122px;
+        margin: 84px 0px 0px 23px;
+    }
+    .section-1{
+        gap: 5px;
+        height: 280px;
+    }
+    .product-1-title{
+        font-size: 17px;
+        margin-top: 90px;
+    }
+    .price{
+        font-size: 17px;
+    }
+    .description{
+        font-size: 14px;
+    }
+    .ratings{
+        font-size: 17px;
+    }
+    .add-to-cart-btn{
+        font-size: 12px;
+        padding: 4px;
+        border-radius: 6px;
+    }
+}
+
+
+@media screen and (max-width: 427px){
+    .product-1-image img{
+        max-height: 103px;
+        margin: 68px 0px 0px 23px;
+    }
+    .section-1{
+        gap: 5px;
+        height: 275px;
+    }
+    .product-1-title{
+        font-size: 17px;
+        margin-top: 66px;
+    }
+    .price{
+        font-size: 17px;
+    }
+    .description{
+        font-size: 14px;
+    }
+    .ratings{
+        font-size: 17px;
+    }
+    .add-to-cart-btn{
+        font-size: 12px;
+        padding: 4px;
+        border-radius: 6px;
+    }
+}
+
+
+@media screen and (max-width: 383px){
+    .product-1-image img{
+        max-height: 91px;
+        margin: 68px 0px 0px 23px;
+    }
+    .section-1{
+        gap: 5px;
+        height: 256px;
+    }
+    .product-1-title{
+        font-size: 16px;
+        margin-top: 66px;
+    }
+    .price{
+        font-size: 16px;
+    }
+    .description{
+        font-size: 14px;
+    }
+    .ratings{
+        font-size: 17px;
+    }
+    .add-to-cart-btn{
+        font-size: 12px;
+        padding: 4px;
+        border-radius: 6px;
+    }
+}
