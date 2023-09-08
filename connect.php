@@ -24,6 +24,9 @@ if (isset($_POST['submit'])) {
 }
 
 
+
+
+
 $sql = "INSERT INTO contact(Name,Email,Mobile,Message) VALUES('$Name', '$Email', '$Mobile', '$Message')";
 
 if(mysqli_query($conn, $sql)){
